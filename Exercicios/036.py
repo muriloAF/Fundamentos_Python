@@ -31,7 +31,7 @@ for i in range(1, 8):
         conifssões santo Agostinho
         irmãos karamaóv
 '''
-#Número do professor: 11 99383-9820;
+
 
 
 
